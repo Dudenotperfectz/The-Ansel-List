@@ -1,6 +1,6 @@
 :root {
-    --color-background: white;
-    --color-on-background: black;
+    --color-background: black;
+    --color-on-background: white;
     --color-primary: #0066ff;
     --color-on-primary: white;
 }
